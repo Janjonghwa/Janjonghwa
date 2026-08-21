@@ -1,4 +1,4 @@
-name: Generate Contribution Snake
+name: Generate Profile Assets
 
 on:
   schedule:
@@ -14,13 +14,27 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Generate snake SVGs
+      - uses: actions/checkout@v4
+
+      # 1. 3D 잔디 (기여도 + 커밋/스타/PR 통계 패널 포함)
+      - name: Generate 3D contribution calendar
+        uses: yoshi389111/github-profile-3d-contrib@v0.9.3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      # 2. 잔디 스네이크 애니메이션
+      - name: Generate snake animation
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
+
+      # 3. 두 결과물을 하나의 output 브랜치로 모음
+      - name: Collect assets
+        run: cp -r profile-3d-contrib/. dist/
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4

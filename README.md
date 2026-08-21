@@ -9,8 +9,6 @@
 <br/>
 
 <img src="https://img.shields.io/badge/Seoul,_Korea-203A43?style=flat-square&logo=googlemaps&logoColor=white" />
-<img src="https://img.shields.io/badge/University_of_Seoul-1D4ED8?style=flat-square&logo=googlescholar&logoColor=white" />
-<img src="https://img.shields.io/badge/SSAFY-0064FF?style=flat-square&logo=samsung&logoColor=white" />
 <img src="https://komarev.com/ghpvc/?username=Janjonghwa&style=flat-square&color=36BCF7&label=PROFILE+VIEWS" />
 
 </div>
@@ -19,20 +17,10 @@
 
 ## 🙋‍♂️ About Me
 
-```yaml
-name: "Jonghwa Park"
-role: "Student Developer @ University of Seoul"
-focus:
-  - "On-device AI & Vision (VQA, detection)"
-  - "Autonomous mobile robots / UGV"
-  - "Embedded systems: Linux, Qt, Raspberry Pi"
-building: "AIoT services that ship, not just demo"
-motto: "돌아가는 코드보다, 이해되는 코드"
-```
-
 - 🤖 재난 현장 자율 탐사 로봇부터 AI 인허가 진단 서비스까지 — **하드웨어와 서비스를 잇는 일**에 관심이 있습니다
 - 🧠 온디바이스 AI, 비전 모델 경량화, 실시간 관제 시스템을 주로 다룹니다
 - 🌱 요즘은 `TypeScript` + `FastAPI` 로 아이디어를 빠르게 제품으로 만드는 연습 중
+- 💬 *"돌아가는 코드보다, 이해되는 코드"*
 - 📫 협업 제안은 언제든 Issue 나 이메일로 편하게
 
 <br/>
@@ -119,22 +107,13 @@ motto: "돌아가는 코드보다, 이해되는 코드"
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Janjonghwa&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janjonghwa&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=36BCF7&text_color=c9d1d9" />
-
-<img height="165" src="https://streak-stats.demolab.com?user=Janjonghwa&hide_border=true&theme=tokyonight&background=0D1117&ring=36BCF7&fire=FF7A18&currStreakLabel=36BCF7" />
-
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=Janjonghwa&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Janjonghwa&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFFFFF&area=true&hide_border=true" />
-
-</div>
+<img width="88%" src="https://raw.githubusercontent.com/Janjonghwa/Janjonghwa/output/profile-night-view.svg" alt="3D contribution calendar" />
 
 <br/>
 
-## 🐍 Contribution Snake
+<img height="180" src="https://streak-stats.demolab.com?user=Janjonghwa&hide_border=true&theme=tokyonight&background=0D1117&ring=36BCF7&fire=FF7A18&currStreakLabel=36BCF7" />
 
-<div align="center">
+<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Janjonghwa/Janjonghwa/output/github-snake-dark.svg" />
