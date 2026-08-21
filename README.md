@@ -70,8 +70,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,cpp,ts,java,c,pytorch,opencv,ros,linux,qt,spring,docker&perline=6&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,cpp,ts,java,c,pytorch,opencv,ros,linux,qt,spring,docker&perline=6&theme=light" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Ccpp%2Cts%2Cjava%2Cc%2Cpytorch%2Copencv%2Cros%2Clinux%2Cqt%2Cspring%2Cdocker&perline=6&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python%2Ccpp%2Cts%2Cjava%2Cc%2Cpytorch%2Copencv%2Cros%2Clinux%2Cqt%2Cspring%2Cdocker&perline=6&theme=light" />
   <img width="86%" src="https://skillicons.dev/icons?i=python,cpp,ts,java,c,pytorch,opencv,ros,linux,qt,spring,docker&perline=6&theme=dark" alt="Python, C++, TypeScript, Java, C, PyTorch, OpenCV, ROS 2, Linux, Qt, Spring Boot and Docker" />
 </picture>
 
@@ -110,7 +110,7 @@
 
 프로젝트와 협업 이야기는 언제든 편하게 보내주세요.
 
-<a href="mailto:parkjh1492@naver.com"><img src="https://img.shields.io/badge/Email-parkjh1492%40naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Email parkjh1492@naver.com" /></a>
+<a href="mailto:janjonghwa@gmail.com"><img src="https://img.shields.io/badge/Email-janjonghwa%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email janjonghwa@gmail.com" /></a>
 <a href="https://github.com/Janjonghwa"><img src="https://img.shields.io/badge/GitHub-Janjonghwa-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Janjonghwa" /></a>
 
 <br/><br/>
