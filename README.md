@@ -2,8 +2,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=185&section=header&text=AI%20%C2%B7%20Robotics%20%C2%B7%20Embedded&fontSize=42&fontColor=ffffff&fontAlignY=44&animation=fadeIn" alt="AI · Robotics · Embedded" />
 
-### On-device AI와 자율 로봇을, 실제 동작하는 서비스로 연결합니다.
-
 </div>
 
 ## 🚀 Featured Projects
