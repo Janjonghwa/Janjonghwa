@@ -55,7 +55,7 @@
 
 > **Result** · SSAFY × KAKAO TECH BOOTCAMP AI Hackathon **103팀 중 본선 6팀 진출**<br/>
 > **Design** · 상태 머신 기반 정보 수집 · 근거 중심 진단 · 모바일 우선 `thin client`<br/>
-> **Stack** · `FastAPI` `Next.js` `PostgreSQL` `Docker`
+> **Stack** · `FastAPI` `Next.js` `SQLite` `Docker`
 
 ### 📈 [Alphapick](https://github.com/ssafy-1-pjt/Alphapick) · 국내 주식 정량 분석
 
@@ -70,10 +70,12 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,cpp,pytorch,opencv,ros,linux,ts,docker&perline=4&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,cpp,pytorch,opencv,ros,linux,ts,docker&perline=4&theme=light" />
-  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,opencv,ros,linux,ts,docker&perline=4&theme=dark" alt="Python, C++, PyTorch, OpenCV, ROS 2, Linux, TypeScript and Docker" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,cpp,ts,java,c,pytorch,opencv,ros,linux,qt,spring,docker&perline=6&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,cpp,ts,java,c,pytorch,opencv,ros,linux,qt,spring,docker&perline=6&theme=light" />
+  <img width="86%" src="https://skillicons.dev/icons?i=python,cpp,ts,java,c,pytorch,opencv,ros,linux,qt,spring,docker&perline=6&theme=dark" alt="Python, C++, TypeScript, Java, C, PyTorch, OpenCV, ROS 2, Linux, Qt, Spring Boot and Docker" />
 </picture>
+
+<sub>Python · C++ · TypeScript · Java · C &nbsp;|&nbsp; PyTorch · OpenCV · ROS 2 · Linux · Qt · Spring Boot · Docker</sub>
 
 </div>
 
@@ -92,7 +94,15 @@
 ## 🧩 More Projects
 
 - [**MRJ · 명리재**](https://github.com/Janjonghwa/MRJ) — 결정론적 만세력 계산과 LLM 스토리텔링, 동적 공유 이미지를 결합한 Next.js 서비스
-- [**QuadQT**](https://github.com/VEDA-QuadZone/QuadQT) — RTSPS·MQTT·TCP를 연동한 Qt 기반 실시간 영상 감시·관제 데스크톱 애플리케이션
+- [**QuadQT**](https://github.com/VEDA-QuadZone/QuadQT) — RTSPS·MQTT·TCP를 연동한 Qt 기반 실시간 영상 감시·관제 데스크톱 애플리케이션 (`C++` `OpenCV`)
+
+## 📊 Activity
+
+<div align="center">
+
+<img width="86%" src="https://raw.githubusercontent.com/Janjonghwa/Janjonghwa/output/profile-night-view.svg" alt="3D contribution calendar with commit, star and pull request stats" />
+
+</div>
 
 <div align="center">
 
