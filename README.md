@@ -28,30 +28,48 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-
 <table>
 <tr>
-<td align="center" width="140"><sub><b>LANGUAGES</b></sub></td>
-<td><img src="https://skillicons.dev/icons?i=c,cpp,cs,python,ts&theme=dark" height="48" /></td>
+<td align="right" width="118"><sub><b>LANGUAGES</b></sub></td>
+<td align="center" width="86"><img height="42" src="https://skillicons.dev/icons?i=c&theme=dark" /><br/><sub>C</sub></td>
+<td align="center" width="86"><img height="42" src="https://skillicons.dev/icons?i=cpp&theme=dark" /><br/><sub>C++</sub></td>
+<td align="center" width="86"><img height="42" src="https://skillicons.dev/icons?i=cs&theme=dark" /><br/><sub>C#</sub></td>
+<td align="center" width="86"><img height="42" src="https://skillicons.dev/icons?i=python&theme=dark" /><br/><sub>Python</sub></td>
+<td align="center" width="86"><img height="42" src="https://skillicons.dev/icons?i=ts&theme=dark" /><br/><sub>TypeScript</sub></td>
 </tr>
 <tr>
-<td align="center"><sub><b>AI / ML</b></sub></td>
-<td><img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn,anaconda&theme=dark" height="48" /></td>
+<td align="right"><sub><b>AI / ML</b></sub></td>
+<td align="center"><img height="42" src="https://skillicons.dev/icons?i=pytorch&theme=dark" /><br/><sub>PyTorch</sub></td>
+<td align="center"><img height="42" src="https://skillicons.dev/icons?i=opencv&theme=dark" /><br/><sub>OpenCV</sub></td>
+<td align="center"><img height="42" src="https://skillicons.dev/icons?i=sklearn&theme=dark" /><br/><sub>scikit-learn</sub></td>
+<td align="center"><img height="42" src="https://skillicons.dev/icons?i=anaconda&theme=dark" /><br/><sub>Anaconda</sub></td>
+<td></td>
 </tr>
 <tr>
-<td align="center"><sub><b>WEB / BACKEND</b></sub></td>
-<td><img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,postgres&theme=dark" height="48" /></td>
+<td align="right"><sub><b>WEB / BACKEND</b></sub></td>
+<td align="center"><img height="42" src="https://skillicons.dev/icons?i=react&theme=dark" /><br/><sub>React</sub></td>
+<td align="center"><img height="42" src="https://skillicons.dev/icons?i=nextjs&theme=dark" /><br/><sub>Next.js</sub></td>
+<td align="center"><img height="42" src="https://skillicons.dev/icons?i=fastapi&theme=dark" /><br/><sub>FastAPI</sub></td>
+<td align="center"><img height="42" src="https://skillicons.dev/icons?i=postgres&theme=dark" /><br/><sub>PostgreSQL</sub></td>
+<td></td>
 </tr>
 <tr>
-<td align="center"><sub><b>EMBEDDED / IOT</b></sub></td>
-<td><img src="https://skillicons.dev/icons?i=linux,raspberrypi,qt,ros&theme=dark" height="48" /></td>
+<td align="right"><sub><b>EMBEDDED / IOT</b></sub></td>
+<td align="center"><img height="42" src="https://skillicons.dev/icons?i=linux&theme=dark" /><br/><sub>Linux</sub></td>
+<td align="center"><img height="42" src="https://skillicons.dev/icons?i=raspberrypi&theme=dark" /><br/><sub>Raspberry Pi</sub></td>
+<td align="center"><img height="42" src="https://skillicons.dev/icons?i=qt&theme=dark" /><br/><sub>Qt</sub></td>
+<td align="center"><img height="42" src="https://skillicons.dev/icons?i=ros&theme=dark" /><br/><sub>ROS</sub></td>
+<td></td>
 </tr>
 <tr>
-<td align="center"><sub><b>TOOLS</b></sub></td>
-<td><img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,figma,notion,vscode&theme=dark" height="48" /></td>
+<td align="right"><sub><b>TOOLS</b></sub></td>
+<td align="center"><img height="42" src="https://skillicons.dev/icons?i=git&theme=dark" /><br/><sub>Git</sub></td>
+<td align="center"><img height="42" src="https://skillicons.dev/icons?i=githubactions&theme=dark" /><br/><sub>Actions</sub></td>
+<td align="center"><img height="42" src="https://skillicons.dev/icons?i=docker&theme=dark" /><br/><sub>Docker</sub></td>
+<td align="center"><img height="42" src="https://skillicons.dev/icons?i=figma&theme=dark" /><br/><sub>Figma</sub></td>
+<td align="center"><img height="42" src="https://skillicons.dev/icons?i=notion&theme=dark" /><br/><sub>Notion</sub></td>
 </tr>
 </table>
-
 </div>
 
 <br/>
@@ -74,10 +92,6 @@
 <div align="center">
 
 <img width="88%" src="https://raw.githubusercontent.com/Janjonghwa/Janjonghwa/output/profile-night-view.svg" alt="3D contribution calendar" />
-
-<br/>
-
-<img height="180" src="https://streak-stats.demolab.com?user=Janjonghwa&hide_border=true&theme=tokyonight&background=0D1117&ring=36BCF7&fire=FF7A18&currStreakLabel=36BCF7" />
 
 <br/><br/>
 
