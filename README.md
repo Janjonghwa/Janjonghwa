@@ -1,10 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=185&section=header&text=Jonghwa%20Park&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=AI%20%C2%B7%20Robotics%20%C2%B7%20Embedded&descSize=18&descAlignY=58&animation=fadeIn" alt="Jonghwa Park — AI, Robotics, Embedded" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=185&section=header&text=AI%20%C2%B7%20Robotics%20%C2%B7%20Embedded&fontSize=42&fontColor=ffffff&fontAlignY=44&animation=fadeIn" alt="AI · Robotics · Embedded" />
 
 ### On-device AI와 자율 로봇을, 실제 동작하는 서비스로 연결합니다.
-
-`Robot Software` · `On-device AI` · `Product Engineering`
 
 </div>
 
@@ -111,6 +109,6 @@
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer&text=From%20silicon%20to%20service.&fontSize=20&fontColor=ffffff&fontAlignY=72&animation=fadeIn" alt="From silicon to service" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" alt="" />
 
 </div>
