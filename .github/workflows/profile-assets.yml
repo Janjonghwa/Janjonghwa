@@ -33,13 +33,19 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
 
       # 3. 두 결과물을 하나의 output 브랜치로 모음
+      # snk 는 Docker 액션이라 dist/ 가 root 소유로 생성됨 → sudo 로 복사 후 소유권 회수
       - name: Collect assets
-        run: cp -r profile-3d-contrib/. dist/
+        run: |
+          mkdir -p public
+          sudo cp -r profile-3d-contrib/. public/
+          sudo cp -r dist/. public/
+          sudo chown -R "$(id -u):$(id -g)" public
+          ls -la public
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: public
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
