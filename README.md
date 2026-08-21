@@ -30,46 +30,57 @@
 <div align="center">
 <table>
 <tr>
-<td align="right" width="118"><sub><b>LANGUAGES</b></sub></td>
-<td align="center" width="86"><img height="42" src="https://skillicons.dev/icons?i=c&theme=dark" /><br/><sub>C</sub></td>
-<td align="center" width="86"><img height="42" src="https://skillicons.dev/icons?i=cpp&theme=dark" /><br/><sub>C++</sub></td>
-<td align="center" width="86"><img height="42" src="https://skillicons.dev/icons?i=cs&theme=dark" /><br/><sub>C#</sub></td>
+<td align="right" width="124"><sub><b>LANGUAGES</b></sub></td>
 <td align="center" width="86"><img height="42" src="https://skillicons.dev/icons?i=python&theme=dark" /><br/><sub>Python</sub></td>
 <td align="center" width="86"><img height="42" src="https://skillicons.dev/icons?i=ts&theme=dark" /><br/><sub>TypeScript</sub></td>
+<td align="center" width="86"><img height="42" src="https://skillicons.dev/icons?i=cpp&theme=dark" /><br/><sub>C++</sub></td>
+<td align="center" width="86"><img height="42" src="https://skillicons.dev/icons?i=java&theme=dark" /><br/><sub>Java 21</sub></td>
+<td align="center" width="86"><img height="42" src="https://skillicons.dev/icons?i=c&theme=dark" /><br/><sub>C</sub></td>
 </tr>
 <tr>
-<td align="right"><sub><b>AI / ML</b></sub></td>
+<td align="right"><sub><b>AI / VISION</b></sub></td>
 <td align="center"><img height="42" src="https://skillicons.dev/icons?i=pytorch&theme=dark" /><br/><sub>PyTorch</sub></td>
 <td align="center"><img height="42" src="https://skillicons.dev/icons?i=opencv&theme=dark" /><br/><sub>OpenCV</sub></td>
 <td align="center"><img height="42" src="https://skillicons.dev/icons?i=sklearn&theme=dark" /><br/><sub>scikit-learn</sub></td>
-<td align="center"><img height="42" src="https://skillicons.dev/icons?i=anaconda&theme=dark" /><br/><sub>Anaconda</sub></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
-<td align="right"><sub><b>WEB / BACKEND</b></sub></td>
-<td align="center"><img height="42" src="https://skillicons.dev/icons?i=react&theme=dark" /><br/><sub>React</sub></td>
-<td align="center"><img height="42" src="https://skillicons.dev/icons?i=nextjs&theme=dark" /><br/><sub>Next.js</sub></td>
+<td align="right"><sub><b>BACKEND</b></sub></td>
+<td align="center"><img height="42" src="https://skillicons.dev/icons?i=spring&theme=dark" /><br/><sub>Spring Boot</sub></td>
 <td align="center"><img height="42" src="https://skillicons.dev/icons?i=fastapi&theme=dark" /><br/><sub>FastAPI</sub></td>
 <td align="center"><img height="42" src="https://skillicons.dev/icons?i=postgres&theme=dark" /><br/><sub>PostgreSQL</sub></td>
-<td></td>
+<td align="center"><img height="42" src="https://skillicons.dev/icons?i=prisma&theme=dark" /><br/><sub>Prisma</sub></td>
+<td align="center"><img height="42" src="https://skillicons.dev/icons?i=docker&theme=dark" /><br/><sub>Docker</sub></td>
 </tr>
 <tr>
-<td align="right"><sub><b>EMBEDDED / IOT</b></sub></td>
+<td align="right"><sub><b>FRONTEND</b></sub></td>
+<td align="center"><img height="42" src="https://skillicons.dev/icons?i=react&theme=dark" /><br/><sub>React</sub></td>
+<td align="center"><img height="42" src="https://skillicons.dev/icons?i=nextjs&theme=dark" /><br/><sub>Next.js</sub></td>
+<td align="center"><img height="42" src="https://skillicons.dev/icons?i=vue&theme=dark" /><br/><sub>Vue 3</sub></td>
+<td align="center"><img height="42" src="https://skillicons.dev/icons?i=tailwind&theme=dark" /><br/><sub>Tailwind</sub></td>
+<td align="center"><img height="42" src="https://skillicons.dev/icons?i=vite&theme=dark" /><br/><sub>Vite</sub></td>
+</tr>
+<tr>
+<td align="right"><sub><b>ROBOTICS / IOT</b></sub></td>
+<td align="center"><img height="42" src="https://skillicons.dev/icons?i=ros&theme=dark" /><br/><sub>ROS 2</sub></td>
 <td align="center"><img height="42" src="https://skillicons.dev/icons?i=linux&theme=dark" /><br/><sub>Linux</sub></td>
-<td align="center"><img height="42" src="https://skillicons.dev/icons?i=raspberrypi&theme=dark" /><br/><sub>Raspberry Pi</sub></td>
 <td align="center"><img height="42" src="https://skillicons.dev/icons?i=qt&theme=dark" /><br/><sub>Qt</sub></td>
-<td align="center"><img height="42" src="https://skillicons.dev/icons?i=ros&theme=dark" /><br/><sub>ROS</sub></td>
+<td align="center"><img height="42" src="https://skillicons.dev/icons?i=arduino&theme=dark" /><br/><sub>ESP32</sub></td>
 <td></td>
 </tr>
 <tr>
 <td align="right"><sub><b>TOOLS</b></sub></td>
 <td align="center"><img height="42" src="https://skillicons.dev/icons?i=git&theme=dark" /><br/><sub>Git</sub></td>
-<td align="center"><img height="42" src="https://skillicons.dev/icons?i=githubactions&theme=dark" /><br/><sub>Actions</sub></td>
-<td align="center"><img height="42" src="https://skillicons.dev/icons?i=docker&theme=dark" /><br/><sub>Docker</sub></td>
-<td align="center"><img height="42" src="https://skillicons.dev/icons?i=figma&theme=dark" /><br/><sub>Figma</sub></td>
-<td align="center"><img height="42" src="https://skillicons.dev/icons?i=notion&theme=dark" /><br/><sub>Notion</sub></td>
+<td align="center"><img height="42" src="https://skillicons.dev/icons?i=gitlab&theme=dark" /><br/><sub>GitLab CI</sub></td>
+<td align="center"><img height="42" src="https://skillicons.dev/icons?i=gradle&theme=dark" /><br/><sub>Gradle</sub></td>
+<td align="center"><img height="42" src="https://skillicons.dev/icons?i=cmake&theme=dark" /><br/><sub>CMake</sub></td>
+<td></td>
 </tr>
 </table>
+
+<sub>또한 &nbsp;·&nbsp; <b>YOLO / Ultralytics</b> &nbsp;·&nbsp; <b>HuggingFace Transformers</b> (PEFT · QLoRA) &nbsp;·&nbsp; <b>CUDA · Jetson</b> &nbsp;·&nbsp; <b>MQTT</b> (Paho · Mosquitto) &nbsp;·&nbsp; <b>Flyway</b></sub>
+
 </div>
 
 <br/>
@@ -78,12 +89,12 @@
 
 | Project | What it is | Stack |
 |:--|:--|:--|
-| [**Sentinel-UGV**](https://github.com/Common-AIOT/Sentinel-UGV) | 재난 현장 자율 탐사 로봇 · 온디바이스 AI 관제 시스템 | `Python` `Vision` `Embedded` |
-| [**HEOGAONv3**](https://github.com/Janjonghwa/HEOGAONv3) | 소상공인을 위한 AI 인허가 사전 진단 서비스 | `Python` `LLM` `RAG` |
-| [**Alphapick**](https://github.com/ssafy-1-pjt/Alphapick) | 국내 주식 정량 분석 · 3축 스코어 기반 종목 스크리너 | `Python` `Data` `Web` |
-| [**MRJ** (명리재)](https://github.com/Janjonghwa/MRJ) | 사주 분석 웹 서비스 | `TypeScript` `Next.js` |
-| [**Recycle VQA**](https://github.com/Janjonghwa/Recycle_VQA_Challenge) | 재활용품 이미지 기반 VQA 모델 개발 | `PyTorch` `Multimodal` |
-| [**QuadQT**](https://github.com/VEDA-QuadZone/QuadQT) | Qt 기반 임베디드 관제 UI | `C++` `Qt` |
+| [**Sentinel-UGV**](https://github.com/Common-AIOT/Sentinel-UGV) | 재난 현장 자율 탐사 로봇 · 온디바이스 AI 관제 시스템 | `ROS 2` `Spring Boot` `YOLO` `Jetson` `MQTT` |
+| [**HEOGAONv3**](https://github.com/Janjonghwa/HEOGAONv3) | 소상공인을 위한 AI 인허가 사전 진단 서비스 | `FastAPI` `Next.js` `Docker` |
+| [**Alphapick**](https://github.com/ssafy-1-pjt/Alphapick) | 국내 주식 정량 분석 · 3축 스코어 기반 종목 스크리너 | `Vue 3` `Pinia` `Python` |
+| [**MRJ** (명리재)](https://github.com/Janjonghwa/MRJ) | 사주 분석 웹 서비스 | `Next.js 16` `Prisma` `TypeScript` |
+| [**Recycle VQA**](https://github.com/Janjonghwa/Recycle_VQA_Challenge) | 재활용품 이미지 기반 VQA 모델 개발 | `PyTorch` `Transformers` `QLoRA` |
+| [**QuadQT**](https://github.com/VEDA-QuadZone/QuadQT) | Qt 기반 임베디드 관제 UI | `C++` `Qt` `QMake` |
 
 <br/>
 
