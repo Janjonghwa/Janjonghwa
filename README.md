@@ -6,22 +6,6 @@
 
 </div>
 
-## 🙋‍♂️ About Me
-
-만든 것이 데모에서 멈추지 않고 **실제 현장에서 움직이는 순간**을 가장 좋아합니다. 재난 현장의 로봇도, 소상공인을 위한 행정 서비스도 결국 같은 질문에서 출발했습니다 — *"이게 정말 사용자 앞에서 동작하는가?"*
-
-- 📏 모델은 정확도만큼 **지연 시간 · 처리량 · 실장치 제약**까지 검증해야 완성이라고 생각합니다.
-- 📝 돌아가는 코드에서 멈추지 않고, **의사결정과 한계까지 설명되는 코드**를 지향합니다.
-- 🧭 로봇 소프트웨어와 온디바이스 AI를 중심에 두고, 아이디어를 빠르게 제품으로 만드는 폭을 넓히고 있습니다.
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/VQA_Challenge-1st_%2F_193-2C5364?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0F2027" alt="VQA Challenge first place out of 193 teams" />
-<img src="https://img.shields.io/badge/AI_Hackathon-Final_6_%2F_103-2C5364?style=for-the-badge&logo=kakaotalk&logoColor=white&labelColor=0F2027" alt="AI Hackathon finalist, 6 out of 103 teams" />
-<img src="https://img.shields.io/badge/Sentinel_CI-941_Tests-2C5364?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=0F2027" alt="Sentinel UGV CI with 941 tests" />
-
-</div>
-
 ## 🚀 Featured Projects
 
 ### 🤖 [Sentinel-UGV](https://github.com/Common-AIOT/Sentinel-UGV) · 재난 현장 자율 탐사 로봇
