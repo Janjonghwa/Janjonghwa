@@ -19,9 +19,9 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/VQA_Challenge-1st_%2F_193-2C5364?style=for-the-badge&logo=pytorch&logoColor=white" alt="VQA Challenge first place out of 193 teams" />
-<img src="https://img.shields.io/badge/AI_Hackathon-Final_6_%2F_103-203A43?style=for-the-badge&logo=kakaotalk&logoColor=white" alt="AI Hackathon finalist, 6 out of 103 teams" />
-<img src="https://img.shields.io/badge/Sentinel_CI-941_Tests-36BCF7?style=for-the-badge&logo=gitlab&logoColor=white" alt="Sentinel UGV CI with 941 tests" />
+<img src="https://img.shields.io/badge/VQA_Challenge-1st_%2F_193-2C5364?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0F2027" alt="VQA Challenge first place out of 193 teams" />
+<img src="https://img.shields.io/badge/AI_Hackathon-Final_6_%2F_103-2C5364?style=for-the-badge&logo=kakaotalk&logoColor=white&labelColor=0F2027" alt="AI Hackathon finalist, 6 out of 103 teams" />
+<img src="https://img.shields.io/badge/Sentinel_CI-941_Tests-2C5364?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=0F2027" alt="Sentinel UGV CI with 941 tests" />
 
 </div>
 
@@ -75,21 +75,13 @@
   <img width="86%" src="https://skillicons.dev/icons?i=python,cpp,ts,java,c,pytorch,opencv,ros,linux,qt,spring,docker&perline=6&theme=dark" alt="Python, C++, TypeScript, Java, C, PyTorch, OpenCV, ROS 2, Linux, Qt, Spring Boot and Docker" />
 </picture>
 
-<sub>Python · C++ · TypeScript · Java · C &nbsp;|&nbsp; PyTorch · OpenCV · ROS 2 · Linux · Qt · Spring Boot · Docker</sub>
-
 </div>
 
-### AI & Vision
+**AI & Vision** &nbsp;·&nbsp; `PyTorch` · `OpenCV` · `YOLO / Ultralytics` · `Hugging Face Transformers` · `PEFT / QLoRA`
 
-`PyTorch` · `OpenCV` · `YOLO / Ultralytics` · `Hugging Face Transformers` · `PEFT / QLoRA`
+**Robotics & Edge** &nbsp;·&nbsp; `ROS 2` · `C / C++` · `Linux` · `Jetson / CUDA` · `Qt` · `ESP32` · `MQTT`
 
-### Robotics & Edge
-
-`ROS 2` · `C / C++` · `Linux` · `Jetson / CUDA` · `Qt` · `ESP32` · `MQTT`
-
-### Product Engineering
-
-`TypeScript` · `FastAPI` · `Spring Boot` · `Next.js` · `Vue 3` · `PostgreSQL` · `Prisma` · `Docker`
+**Product Engineering** &nbsp;·&nbsp; `TypeScript` · `FastAPI` · `Spring Boot` · `Next.js` · `Vue 3` · `PostgreSQL` · `Prisma` · `Docker`
 
 ## 🧩 More Projects
 
@@ -100,7 +92,11 @@
 
 <div align="center">
 
-<img width="86%" src="https://raw.githubusercontent.com/Janjonghwa/Janjonghwa/output/profile-night-view.svg" alt="3D contribution calendar with commit, star and pull request stats" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Janjonghwa/Janjonghwa/output/profile-night-view.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Janjonghwa/Janjonghwa/output/profile-green.svg" />
+  <img width="86%" src="https://raw.githubusercontent.com/Janjonghwa/Janjonghwa/output/profile-night-view.svg" alt="3D contribution calendar with commit, star and pull request stats" />
+</picture>
 
 </div>
 
@@ -110,8 +106,8 @@
 
 프로젝트와 협업 이야기는 언제든 편하게 보내주세요.
 
-<a href="mailto:janjonghwa@gmail.com"><img src="https://img.shields.io/badge/Email-janjonghwa%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email janjonghwa@gmail.com" /></a>
-<a href="https://github.com/Janjonghwa"><img src="https://img.shields.io/badge/GitHub-Janjonghwa-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Janjonghwa" /></a>
+<a href="mailto:janjonghwa@gmail.com"><img src="https://img.shields.io/badge/Email-janjonghwa%40gmail.com-2C5364?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F2027" alt="Email janjonghwa@gmail.com" /></a>
+<a href="https://github.com/Janjonghwa"><img src="https://img.shields.io/badge/GitHub-Janjonghwa-203A43?style=for-the-badge&logo=github&logoColor=white&labelColor=0F2027" alt="GitHub Janjonghwa" /></a>
 
 <br/><br/>
 
