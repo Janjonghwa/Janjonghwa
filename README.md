@@ -16,9 +16,6 @@
 
 **Product Engineering** &nbsp;·&nbsp; `TypeScript` · `FastAPI` · `Spring Boot` · `Next.js` · `Vue 3` · `PostgreSQL` · `Prisma` · `Docker`
 
-## 🧩 More Projects
-
-- [**MRJ · 명리재**](https://github.com/Janjonghwa/MRJ) — 결정론적 만세력 계산과 LLM 스토리텔링, 동적 공유 이미지를 결합한 Next.js 서비스
 
 ## 📊 Activity
 
